@@ -1,2 +1,2 @@
 # Portfolio-Management
-This portfolio is for quantitative portfolio managements tools.
+This repository is for the application of quantitative portfolio managements tools.
